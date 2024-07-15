@@ -48,5 +48,7 @@ This is the demo video link
 
 ## Download
 
-[![Download APK](screens/download_img.png)](downloads/app-release.apk)
+<a href="downloads/app-release.apk">
+  <img src="screens/download_img.png" alt="Download APK" width="200" />
+</a>
 
