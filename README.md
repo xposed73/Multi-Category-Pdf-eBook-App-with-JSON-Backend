@@ -48,7 +48,7 @@ This is the demo video link
 
 ## Download
 
-<a href="downloads/app-release.apk">
+<a href="https://github.com/xposed73/Multi-Category-Pdf-eBook-App-with-JSON-Backend/releases/download/1.0.0/universal-release-null-1.0.0.apk">
   <img src="screens/download_img.png" alt="Download APK" width="200" />
 </a>
 
