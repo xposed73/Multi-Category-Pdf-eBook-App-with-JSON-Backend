@@ -26,9 +26,9 @@
 
 📲 **User-Friendly Design**: Modern and intuitive design to enhance user engagement and satisfaction.
 
-# My Project
+# DEMO Video
 
-This is an example project.
+This is the demo video link
 
 [Watch the video on YouTube](https://youtu.be/TthQPvanXxE)
 
