@@ -46,3 +46,7 @@ This is the demo video link
 
 [Watch the video on YouTube](https://youtu.be/TthQPvanXxE)
 
+## Download
+
+[![Download APK](screens/download_img.png)](downloads/app-release.apk)
+
