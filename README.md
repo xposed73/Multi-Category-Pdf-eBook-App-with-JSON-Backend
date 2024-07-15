@@ -30,5 +30,5 @@
 
 This is an example project.
 
-[![Watch the video](http://img.youtube.com/vi/TthQPvanXxE/0.jpg)](http://www.youtube.com/watch?v=TthQPvanXxE)
+[Watch the video on YouTube](https://youtu.be/TthQPvanXxE)
 
