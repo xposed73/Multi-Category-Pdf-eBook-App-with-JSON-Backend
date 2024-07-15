@@ -52,3 +52,7 @@ This is the demo video link
   <img src="screens/download_img.png" alt="Download APK" width="200" />
 </a>
 
+<a>
+  <img src="screens/demo_qr.png" alt="Download APK" width="1920" />
+</a>
+
