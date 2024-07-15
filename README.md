@@ -4,12 +4,12 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="screens/screen_1.png" width="200" />
-  <img src="screens/screen2.png" width="200" />
-  <img src="screens/screen3.png" width="200" />
-  <img src="screens/screen4.png" width="200" />
-  <img src="screens/screen5.png" width="200" />
-  <img src="screens/screen6.png" width="200" />
-  <img src="screens/screen7.png" width="200" />
+  <img src="screens/screen_2.png" width="200" />
+  <img src="screens/screen_3.png" width="200" />
+  <img src="screens/screen_4.png" width="200" />
+  <img src="screens/screen_5.png" width="200" />
+  <img src="screens/screen_6.png" width="200" />
+  <img src="screens/screen_7.png" width="200" />
 </div>
 
 # 📚 Multi-Category PDF eBook App with JSON Backend
