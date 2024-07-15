@@ -38,6 +38,43 @@
 
 🔄 **JSON Backend**: Easily manage and update your eBook categories and content using a flexible JSON backend.
 
+# Json Setup
+
+```json
+{
+    "categories": [
+        {
+            "category_title": "Mathematics",
+            "category_image": "https://ncert.nic.in/textbook/pdf/jemh1cc.jpg",
+            "subcategories": [
+                {
+                    "subcategory_title": "Mathematics",
+                    "subcategory_image": "https://ncert.nic.in/textbook/pdf/jemh1cc.jpg",
+                    "items": [
+                        {
+                            "item_title": "Chapter 1",
+                            "item_url": "https://ncert.nic.in/textbook/pdf/jemh101.pdf"
+                        },
+                        {
+                            "item_title": "Chapter 2",
+                            "item_url": "https://ncert.nic.in/textbook/pdf/jemh102.pdf"
+                        },
+                        {
+                            "item_title": "Chapter 3",
+                            "item_url": "https://ncert.nic.in/textbook/pdf/jemh103.pdf"
+                        },
+                        {
+                            "item_title": "Chapter 4",
+                            "item_url": "https://ncert.nic.in/textbook/pdf/jemh104.pdf"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+```
+
 📲 **User-Friendly Design**: Modern and intuitive design to enhance user engagement and satisfaction.
 
 # DEMO Video
