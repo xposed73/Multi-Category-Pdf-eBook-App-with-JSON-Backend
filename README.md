@@ -1,4 +1,4 @@
-# 📚 Multi-Category PDF eBook App with JSON Backend 📚
+# 📚 Multi-Category PDF eBook App with JSON Backend
 
 🚀 **Unlimited Categories & Subcategories**: Easily add and manage an unlimited number of categories and subcategories for your eBooks.
 
