@@ -4,14 +4,6 @@
   <span style="animation: blinker 1.5s linear infinite;">📚 TRY US, BEFORE YOU BUY</span>. 
 </p>
 
-<style>
-@keyframes blinker {
-  50% {
-    opacity: 0;
-  }
-}
-</style>
-
 
 ## Screenshots
 
