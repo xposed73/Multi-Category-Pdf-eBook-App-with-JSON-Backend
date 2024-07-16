@@ -1,3 +1,18 @@
+# Multi-Category PDF eBook App
+
+<p style="font-size: 20px; font-weight: bold;">
+  <span style="animation: blinker 1.5s linear infinite;">📚 TRY US, BEFORE YOU BUY</span>. 
+</p>
+
+<style>
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+</style>
+
+
 ## Screenshots
 
 ### Mobile App Screenshots
